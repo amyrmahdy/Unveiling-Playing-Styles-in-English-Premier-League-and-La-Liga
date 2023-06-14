@@ -47,12 +47,12 @@ If you wish to contribute to this project, you can fork the repository, make the
 
 ## **License**
 
-This project is licensed under the (MIT License) [https://opensource.org/license/mit/].
+This project is licensed under the [MIT License](https://opensource.org/license/mit/)
 
 
 Please note that the actual data used for the analysis may be subject to different licenses or restrictions. Ensure that you comply with the appropriate terms and conditions when using or sharing the dataset.
 
-For any questions or inquiries, please contact the project maintainers (LinkedIn)[https://www.linkedin.com/in/amyrmahdy/].
+For any questions or inquiries, please contact the project maintainers [LinkedIn](https://www.linkedin.com/in/amyrmahdy/).
 
 
 
